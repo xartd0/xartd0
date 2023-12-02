@@ -8,5 +8,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true" />
+  ![](https://komarev.com/ghpvc/?username=xartd0)
 </picture>
-![](https://komarev.com/ghpvc/?username=xartd0)
+
