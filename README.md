@@ -9,3 +9,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true" />
 </picture>
+![](https://komarev.com/ghpvc/?username=xartd0)
