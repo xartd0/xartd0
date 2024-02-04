@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d5/b7/9a/d5b79a59329e7456dd3e7e0cf4c04a89.gif" alt="Gif" height="192px"/>
+  <img src="https://i.pinimg.com/originals/d5/b7/9a/d5b79a59329e7456dd3e7e0cf4c04a89.gif" alt="Gif" height="100px"/>
 </p>
 
 <div align="center">
@@ -14,4 +14,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xartd0&show_icons=true&bg_color=090705&border_color=490b0b&text_color=ffffff&icon_color=700f10&title_color=ffffff&layout=compact" alt="Top Languages" height="192px">
   </a>
 </div>
-****
