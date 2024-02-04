@@ -1,14 +1,4 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true" />
-</picture>
+![Xartd0's GitHub stats](https://github-readme-stats.vercel.app/api?username=xartd0&show_icons=true&bg_color=090705&border_color=490b0b)
 
 
 ![](https://komarev.com/ghpvc/?username=xartd0)
